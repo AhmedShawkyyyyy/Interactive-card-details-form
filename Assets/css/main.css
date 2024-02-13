@@ -128,6 +128,7 @@ section .container .row .cards .cardBack .zeros {
   body {
     background-image: url(../img/bg-main-mobile.png);
     background-size: 321px;
+    background-repeat: repeat-x;
   }
   .container .row .cards {
     width: 100%;
